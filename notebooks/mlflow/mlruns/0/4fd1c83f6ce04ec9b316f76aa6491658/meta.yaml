@@ -1,0 +1,15 @@
+artifact_uri: file:///workshop/notebooks/mlflow/mlruns/0/4fd1c83f6ce04ec9b316f76aa6491658/artifacts
+end_time: 1738662863403
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4fd1c83f6ce04ec9b316f76aa6491658
+run_name: efficient-cod-427
+run_uuid: 4fd1c83f6ce04ec9b316f76aa6491658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738662861375
+status: 3
+tags: []
+user_id: root
